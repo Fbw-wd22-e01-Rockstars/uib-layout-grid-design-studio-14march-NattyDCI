@@ -28,7 +28,7 @@ body {
     column-gap: 20px;
     row-gap: 20px;
     /* position: relative; */
-    
+
        }
 
 .middle {
@@ -57,7 +57,7 @@ body {
     background-size: cover;
     background-position: center;
 }
-       
+
 .m7 {
     background-image: url(../assets/item-five.jpeg);
     background-repeat: no-repeat;
